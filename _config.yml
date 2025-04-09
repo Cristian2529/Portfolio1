@@ -7,3 +7,6 @@ show_downloads: true # or false to indicate wheter to provide the download URL
 #Theme
 theme: jekyll-theme-minimal
 
+#Add photo or images
+logo: /assets/img/profile.jpg
+favicon: /assets/img/favicon.ico
