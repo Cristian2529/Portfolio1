@@ -2,7 +2,7 @@ title: "Cristian Salamanca"
 description: >-
   Data Science Portfolio - Projects, Resume and Skills.
   
-show_downloads: true
+show_downloads: true # or false to indicate wheter to provide the download URL
   
 #Theme
 theme: jekyll-theme-minimal
