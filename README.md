@@ -1,7 +1,7 @@
 # 👩‍💻 Cristian Salamanca 
 
 Data Scientist | Machine Learning Enthusiast | Python Lover  
-📍 Location | 📧 email@example.com | 🌐 [yourwebsite.com](https://yourwebsite.com) | 💼 [LinkedIn](https://linkedin.com/in/yourprofile) | 🧠 [Kaggle](https://kaggle.com/yourprofile) | 📊 [Tableau](https://public.tableau.com/app/profile/yourprofile)
+📍 Vancouver, BC | 📧 cristiansalamanca2010@hotmail.com | 💼 [LinkedIn](https://www.linkedin.com/in/cristian-salamanca2529/) | 🧠 [Kaggle](https://www.kaggle.com/cristiansalamanca) 
 
 ---
 
@@ -45,4 +45,4 @@ Interactive dashboard showing churn drivers and KPIs for a fictional telecom com
 ## 📬 Get in Touch
 
 I'm always open to connecting with like-minded people and exploring opportunities in data.  
-Reach me at **email@example.com** or connect on [LinkedIn](https://linkedin.com/in/yourprofile).
+Reach me at **cristiansalamanca2010@hotmail.com
