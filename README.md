@@ -42,6 +42,7 @@ Interactive dashboard showing churn drivers and KPIs for a fictional telecom com
 
 **Cornerstone International Community College of Canada**  
 *Diploma in International Business Managment* 
+
 ---
 
 ## 📬 Get in Touch
