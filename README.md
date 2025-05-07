@@ -21,7 +21,7 @@ Used logistic regression and decision trees to predict dementia risk from a heal
 Analyzed birth rates by country and visualized trends with Tableau and matplotlib.  
 **Tools:** Tableau, Excel, Python (matplotlib)
 
-### 🔍 **[Customer Churn Dashboard](https://public.tableau.com/app/profile/yourprofile/viz/CustomerChurnDashboard)**  
+### 🔍 **[Interactive Analysis of Inc. 5000 Companies]([https://public.tableau.com/app/profile/yourprofile/viz/CustomerChurnDashboard](https://public.tableau.com/app/profile/cristian.salamanca2211/viz/Book1_17465830546520/Story))**  
 Interactive dashboard showing churn drivers and KPIs for a fictional telecom company.  
 **Tools:** Tableau, Excel
 
