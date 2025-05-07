@@ -13,7 +13,7 @@ I'm a data science student passionate about uncovering insights from data, solvi
 
 ## 💼 Projects
 
-### 🧠 **[Predicting Dementia Risk from Lifestyle Data](https://github.com/yourusername/dementia-risk-model)**  
+### 🧠 **[Random Forest Regressor for time series forecasting](https://github.com/Cristian2529/Store_Item_Demand)**  
 Used logistic regression and decision trees to predict dementia risk from a health behavior dataset.  
 **Tools:** Python, Pandas, Scikit-learn, Seaborn, Jupyter
 
