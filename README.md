@@ -14,8 +14,9 @@ I'm a data science student passionate about uncovering insights from data, solvi
 ## 💼 Projects
 
 ### 🧠 **[Random Forest Regressor for time series forecasting](https://github.com/Cristian2529/Store_Item_Demand)**  
-Used logistic regression and decision trees to predict dementia risk from a health behavior dataset.  
-**Tools:** Python, Pandas, Scikit-learn, Seaborn, Jupyter
+Used Random Forest and SMAPE evaluation, successfully applied ensemble methods to time series problems.
+
+**Tools:** Python, Pandas, Scikit-learn, Seaborn, Jupyter, Machine Learning
 
 ### 📊 **[Exploratory Analysis of WHO Birth Rate Dataset](https://github.com/yourusername/birthrate-eda)**  
 Analyzed birth rates by country and visualized trends with Tableau and matplotlib.  
